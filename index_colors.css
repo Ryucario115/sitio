@@ -1,3 +1,19 @@
 .Special_move{
-    border: 40px black;
+    border: 10px solid black;
+}
+
+.character_outline{
+    border: 5px solid cyan;
+}
+
+.fire{
+    text-decoration: underline red;
+}
+
+.thunder{
+    text-decoration: underline yellow;
+}
+
+.freeze{
+    text-decoration: underline cyan;
 }
