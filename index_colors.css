@@ -17,3 +17,11 @@
 .freeze{
     text-decoration: underline cyan;
 }
+
+.Joker_colors{
+    border: 10px solid red;
+}
+
+.container{
+    display: flex;
+}
